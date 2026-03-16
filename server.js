@@ -118,7 +118,7 @@ if (customerEmail !== adminEmail.toLowerCase()) {
               <strong>Email:</strong> truelip@urrthhotels.com
             </p>
             <p style="margin:0 0 6px;font-size:14px;color:#6e5a47;">
-              <strong>Phone / WhatsApp:</strong> +91 9479282528
+              <strong>Phone / WhatsApp:</strong> +91 7222902226
             </p>
             <p style="margin:0;font-size:14px;color:#6e5a47;">
               <strong>Website:</strong> urrthhotels.com
